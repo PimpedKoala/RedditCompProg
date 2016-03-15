@@ -3,9 +3,13 @@ This program was created by Joe Finn (/u/PimpedKoala) to aid in the sorting and 
 
 How to use:
 1) Fill in event names and competition number on right hand side. Be wary of spelling and capitalization
+
 2) Paste a competitor's comment in the main input box and hit add.
+
 3) The program will try to correct any misspellings, bad formatting, or capitalization errors automatically. If there is an error that it detects that it cannot fix, it will notify you before adding. To know a user has been added, the background of the program will cycle between 6 colors.  
+
 4) When all competitors are added, press done and the program will write a file containing the competition results in /Competitions
+
 5) If need be, export the current competition using 'Export', and 'Import' it back when you are ready to continue.
 
 * 'Add' starts the processing of the comment and adds the user to the list of competitors.
